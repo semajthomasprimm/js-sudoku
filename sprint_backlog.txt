@@ -19,8 +19,8 @@ Status: In Progress
     US 1.2.1: Setup timer
     Author: Semaj Primm
     Start Date: August 6, 2021
-    End Date:
-    Status: In progress
+    End Date: August 6, 2021
+    Status: Completed
     --------------------------
     US 1.2.2: Setup play/pause section
     Author: Semaj Primm
