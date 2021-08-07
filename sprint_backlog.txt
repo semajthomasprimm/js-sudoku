@@ -24,15 +24,15 @@ Status: In Progress
     --------------------------
     US 1.2.2: Setup play/pause section
     Author: Semaj Primm
-    Start Date:
-    End Date:
-    Status: Not started
+    Start Date: August 6, 2021
+    End Date: August 6, 2021
+    Status: Completed
     --------------------------
-    US 1.2.3: Setup New Game
+    US 1.2.3: Setup New Game button
     Author: Semaj Primm
     Start Date:
     End Date:
-    Status: Not started
+    Status: In Progress
     --------------------------
     US 1.2.4: Setup Toggle button
     Author: Semaj Primm
