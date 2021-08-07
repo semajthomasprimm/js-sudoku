@@ -5,17 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sudoku</title>
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
     <div id="nav">
         <div id="app-header">
-            <h1>Online Sudoku</h1>
-            <button>Toggle Theme</button>
+            <div id="title">
+                <h1>Online Sudoku</h1>
+            </div>
+            <div id="themeToggle">
+                <label class="switch">
+                    <input type="checkbox">
+                    <span class="slider round"></span>
+                </label>
+            </div>
         </div>
         <div id="game-menu">
-            <button>New Game +</button>
+            <button class="btn btn-new-game">New Game +</button>
             <p id="timer">09:47</p>
-            <button>Play</button>
+            <button class="btn btn-play">Play</button>
         </div>
     </div>
 </body>
