@@ -1,0 +1,46 @@
+Product Backlog
+
+===============================================
+User Story 1: Setup basic app
+Priority: 1
+Desc: As a Developer, I want to have a basic app layout, so that I can further develop the app
+
+================================================
+User Story 2: Timer
+Priority: 1
+Desc: As a Player, I want to start and pause the Timer, so that I can start the game and pause the game
+
+=================================================
+User Story 3: Change the theme
+Priority: 3
+Desc: As a Player, I want to toggle the theme button, so that I can change the app theme from light to dark
+
+=================================================
+User Story 4: Input number in grid
+Priority: 1
+Desc: As a Player, I want to enter numbers onto board, so that I can solve the puzzle
+
+===================================================
+User Story 5: Restart game
+Priority: 2
+Desc: As a Player, I want to click the restart button, so that the board is restarted
+
+===================================================
+User Story 6: Start new game
+Priority: 1
+Desc: As a Player, I want to click the start button, so that a new game is started
+
+===================================================
+User Story 7: Get hint
+Priority: 1
+Desc: As a Player, I want to click the get hint button, so that I can get a hint of next step to completing puzzle
+
+===================================================
+User Story 8: Undo step
+Priority: 1
+Desc: As a Player, I want to click the undo button, so that I can undo a entry I made in board
+
+===================================================
+User Story 9: Redo step
+Priority: 1
+Desc: As a Player, I want to click the redo button, so that I can redo a entry I made in board
